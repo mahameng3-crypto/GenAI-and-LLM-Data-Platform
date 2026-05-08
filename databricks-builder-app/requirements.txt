@@ -322,7 +322,7 @@ protobuf==4.25.9
     #   opentelemetry-proto
 psycopg==3.3.3
     # via databricks-builder-app
-psycopg-binary==3.3.3 ; implementation_name != 'pypy'
+psycopg-binary==3.3.4 ; implementation_name != 'pypy'
     # via psycopg
 psycopg2-binary==2.9.11
     # via databricks-builder-app
