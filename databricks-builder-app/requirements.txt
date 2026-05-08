@@ -35,7 +35,7 @@ beartype==0.22.9
     # via py-key-value-aio
 blinker==1.9.0
     # via flask
-cachetools==7.0.5
+cachetools==7.1.1
     # via
     #   mlflow-skinny
     #   mlflow-tracing
